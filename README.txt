@@ -1,2 +1,2 @@
-https://PP1_ThomazOtavio.github.io
+thomazotavio.github.io
 Autor: Thomaz Otávio Soares Figueiredo
